@@ -24,7 +24,7 @@ Sociology Degree  →  Self-taught Cybersecurity  →  Future Security Professio
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![The Hacker Labs](https://img.shields.io/badge/The_Hacker_Labs-111111?style=for-the-badge&logo=hackthebox&logoColor=green)
+![The Hacker Labs](https://img.shields.io/badge/The_Hacker_Labs-111111?style=for-the-bage)
 
 **From My Background**
 
@@ -78,7 +78,7 @@ My background helps me think about:
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![The Hacker Labs](https://img.shields.io/badge/The_Hacker_Labs-111111?style=for-the-badge&logo=hackthebox&logoColor=green)](https://labs.thehackerslabs.com/)
+[![The Hacker Labs](https://img.shields.io/badge/The_Hacker_Labs-111111?style=for-the-badge)](https://labs.thehackerslabs.com/)
 
 ---
 
