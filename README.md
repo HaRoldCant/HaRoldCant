@@ -106,7 +106,7 @@ drwxr-xr-x  📖 learning-notes/  # Concepts explained in plain language  [🔨 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold-cantalapiedra-1009b93b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgF58kzvVT8iduDWnf9VMUw%3D%3D)
 [![The Hackers Labs](https://img.shields.io/badge/The_Hackers_Labs-111111?style=for-the-badge)](https://thehackerslabs.com)
 
 </div>
