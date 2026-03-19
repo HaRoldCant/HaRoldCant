@@ -1,7 +1,6 @@
-<!-- Header Matrix -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=falling&height=200&text=HaRoldCant&fontSize=60&color=0:0d0d0d,100:0d0d0d&fontColor=00ff41&stroke=00ff41&strokeWidth=1&animation=falling&fontAlignY=55&desc=Cybersecurity%20Learner%20%7C%20Spain%20🇪🇸&descSize=16&descAlignY=75&descAlign=50)
+![header](./header.svg)
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🔐+Cybersecurity+Learner;🧠+Sociology+%2B+Hacking+%3D+Unexpected+Combo;🌱+Building+in+public+from+Spain+🇪🇸)](https://git.io/typing-svg)
@@ -98,16 +97,6 @@ drwxr-xr-x  📖 learning-notes/  # Concepts explained in plain language  [🔨 
 ![Harold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaRoldCant&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaRoldCant&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff)
-
-</div>
-
----
-
-## 🐍 `./snake.sh`
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/HaRoldCant/HaRoldCant/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
