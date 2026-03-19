@@ -78,7 +78,7 @@ My background helps me think about:
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![The Hacker Labs](https://img.shields.io/badge/The_Hacker_Labs-111111?style=for-the-badge&logo=hackthebox&logoColor=green)](https://thehackerslabs.com)
+[![The Hacker Labs](https://img.shields.io/badge/The_Hacker_Labs-111111?style=for-the-badge&logo=hackthebox&logoColor=green)]([https://thehackerslabs.com](https://labs.thehackerslabs.com/))
 
 ---
 
