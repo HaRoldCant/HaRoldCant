@@ -3,7 +3,7 @@
 </h1>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🔐+Cybersecurity+Learner;🧠+Sociology+%2B+Hacking+%3D+Unexpected+Combo;🌱+Building+in+public+from+Spain+🇪🇸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🔐+Cybersecurity+Learner;🧠+Sociology+%2B+Hacking+%3D+Unexpected+Combo)](https://git.io/typing-svg)
 
 </div>
 
