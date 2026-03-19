@@ -1,7 +1,32 @@
-<div align="center">
+<svg width="1500" height="300" viewBox="0 0 1500 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes flicker{0%,100%{opacity:1}48%{opacity:0.85}50%{opacity:0.6}52%{opacity:0.9}}
+      @keyframes scan{0%{transform:translateY(-300px)}100%{transform:translateY(600px)}}
+      .name{font-family:'Courier New',monospace;font-size:64px;font-weight:bold;fill:#00ff41;letter-spacing:12px;animation:flicker 6s ease-in-out infinite}
+      .cursor{animation:flicker 1.1s step-end infinite}
+      .scanline{animation:scan 4s linear infinite;opacity:0.04}
+    </style>
+  </defs>
 
-![header](./header.svg)
+  <rect width="1500" height="300" fill="#0d0d0d"/>
 
+  <!-- Scanline sutil para dar profundidad -->
+  <rect class="scanline" x="0" y="0" width="1500" height="6" fill="#00ff41"/>
+
+  <!-- Borde verde muy sutil -->
+  <rect x="1" y="1" width="1498" height="298" fill="none" stroke="#00ff41" stroke-width="1" opacity="0.15"/>
+
+  <!-- Líneas horizontales tipo terminal muy tenues -->
+  <line x1="0" y1="100" x2="1500" y2="100" stroke="#00ff41" stroke-width="0.3" opacity="0.08"/>
+  <line x1="0" y1="200" x2="1500" y2="200" stroke="#00ff41" stroke-width="0.3" opacity="0.08"/>
+
+  <!-- Nombre centrado -->
+  <text class="name" x="750" y="170" text-anchor="middle">HaRold</text>
+
+  <!-- Cursor parpadeante después del nombre -->
+  <rect class="cursor" x="1080" y="125" width="4" height="55" fill="#00ff41"/>
+</svg>
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🔐+Cybersecurity+Learner;🧠+Sociology+%2B+Hacking+%3D+Unexpected+Combo;🌱+Building+in+public+from+Spain+🇪🇸)](https://git.io/typing-svg)
 
