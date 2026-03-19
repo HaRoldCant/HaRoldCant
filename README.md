@@ -119,4 +119,5 @@ drwxr-xr-x  📖 learning-notes/  # Concepts explained in plain language  [🔨 
 
 *`🌱 Learning in public — follow along as I document my journey into cybersecurity from scratch.`*
 
+</div>
 
