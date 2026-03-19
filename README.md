@@ -1,6 +1,6 @@
-<div align="center">
-
-![header](./header.svg)
+<h1 align="center" style="color:#00ff41; font-family:'Courier New', monospace;">
+  &gt; Hello, I'm Harold_
+</h1>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🔐+Cybersecurity+Learner;🧠+Sociology+%2B+Hacking+%3D+Unexpected+Combo;🌱+Building+in+public+from+Spain+🇪🇸)](https://git.io/typing-svg)
