@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#00FF41&; font-family:'Courier New', monospace;">
+<h1 align="center" style="color:00FF41&; font-family:'Courier New', monospace;">
   &gt; Hello, I'm Harold_
 </h1>
 
