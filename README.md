@@ -24,7 +24,7 @@ Sociology Degree  →  Self-taught Cybersecurity  →  Future Security Professio
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![The Hacker Labs](https://img.shields.io/badge/The_Hacker_Labs-111111?style=for-the-bage)
+![The Hackers Labs](https://img.shields.io/badge/The_Hackers_Labs-111111?style=for-the-badge)
 
 **From My Background**
 
